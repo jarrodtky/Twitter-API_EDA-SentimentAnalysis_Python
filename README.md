@@ -25,8 +25,8 @@
 
 
 ## Project Overview
-- Use Data Mining approach to identify which patient has heart disease or not based on the features like Age, Sex, ChestPainType, etc.
-- The dataset can be obtained [here from Kaggle](https://www.kaggle.com/datasets/fedesoriano/heart-failure-prediction?datasetId=1582403&sortBy=voteCount&searchQuery=logi).
+- Use social media analytics to extract tweets from a user or by keywords and perform sentiment and text analysis to discover online text patterns shared between users on Twitter.
+- Use the ipynb code to scrape the desired data into a dataset.
 - [Python](https://www.python.org/) is used to assist this project with Data Mining by extracting important insights using: 
   - [Basic Statistics](https://en.wikipedia.org/wiki/Statistics)
   - [Data Visualization](https://en.wikipedia.org/wiki/Data_and_information_visualization)
@@ -37,7 +37,7 @@
     - [Random Forest Classifier (Bagging Ensemble Model)](https://en.wikipedia.org/wiki/Random_forest)
     - [XGBoost Classifier (Gradient Ensemble Model)](https://en.wikipedia.org/wiki/XGBoost)
 
-
+===============================
 
 ## Motivation
 - In the healthcare industry, understanding what factors or indicators affect a disease is an essential part of the decision-making and problem-solving process. 
