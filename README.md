@@ -31,11 +31,7 @@
   - [Basic Statistics](https://en.wikipedia.org/wiki/Statistics)
   - [Data Visualization](https://en.wikipedia.org/wiki/Data_and_information_visualization)
   - [Supervised Machine Learning Models (Classification)](https://en.wikipedia.org/wiki/Supervised_learning)
-    - [Decision Tree Classifier](https://en.wikipedia.org/wiki/Decision_tree_learning)
-    - [Neural Network Classifier](https://en.wikipedia.org/wiki/Neural_network)
-    - [Logistic Regression](https://en.wikipedia.org/wiki/Logistic_regression)
-    - [Random Forest Classifier (Bagging Ensemble Model)](https://en.wikipedia.org/wiki/Random_forest)
-    - [XGBoost Classifier (Gradient Ensemble Model)](https://en.wikipedia.org/wiki/XGBoost)
+    - [Multinomial Naive Bayes Classier](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)
 
 ===============================
 
