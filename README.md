@@ -15,7 +15,7 @@
 ## Table of Content
 - [Project Overview](#Project-Overview)
 - [Motivation](#Motivation)
-  - [Aim & Objective](##Aim---Objective)
+  - [Aim & Objective](#Aim--Objective)
 - [Contents](#Contents)
 - [Technologies Used](#Technologies-Used)
 - [Installation](#Installation)
@@ -25,7 +25,7 @@
 
 
 ## Project Overview
-- Use social media analytics to extract tweets from a user or by keywords and perform sentiment and text analysis to discover online text patterns shared between users on Twitter.
+- Use social media analytics to extract tweets from a user or by keywords and perform sentiment and text analysis to discover online text patterns shared between users on [Twitter](https://twitter.com/i/flow/login?lang=en).
 - Use the ipynb code to scrape the desired data into a dataset.
 - [Python](https://www.python.org/) is used to assist this project with Data Mining by extracting important insights using: 
   - [Basic Statistics](https://en.wikipedia.org/wiki/Statistics)
