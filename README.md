@@ -33,30 +33,32 @@
   - [Supervised Machine Learning Models (Classification)](https://en.wikipedia.org/wiki/Supervised_learning)
     - [Multinomial Naive Bayes Classier](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)
 
-===============================
+
 
 ## Motivation
-- In the healthcare industry, understanding what factors or indicators affect a disease is an essential part of the decision-making and problem-solving process. 
-- People with cardiovascular disease or who are at high cardiovascular risk (due to the presence of one or more risk factors such as hypertension, diabetes, hyperlipidaemia or already established disease) need early detection and management wherein a machine learning model or statistical analyses can be of great help.
-- These indicators allow decision-makers to identify any potential ways to reduce risk factors of future health and increase the likelihood of disease prevention effectively (Santos et al., 2019). 
-
+- Nowadays Twitter is used to disseminate general or scientific findings to the public.
+- So it is important to understand tweet authors’ citation motivations and attitudes (or sentiments) towards the most discussed content or trends.
+- Furthermore, Twitter allows businesses to engage personally with consumers. 
+- However, there’s so much data on Twitter that it can be hard for brands to prioritize which tweets or mentions to respond to first.
 
 
 ### Aim & Objective
 - Aim: 
-  - To improve the process of analyzing patients’ heart disease in the healthcare industry to allow earlier detection and avoidance of heart disease and morbidity. 
+  - To understand how the content users share on Twitter by analyzing which Tweets organically get the most impressions, engagement, and trends by users or via keywords.
 - Objective: 
-  - To create and select the best Machine Learning model that classifies patients into those who will develop heart disease in the future and those who will not based on the importance of data variables and models evaluation and assessment (i.e. Accuracy, Recall, AUC, etc.). 
-  - The insights gained by analyzing the feature importance of each data variable to the target data will aid in establishing which factor or indicator is critical in causing heart disease.
+  - To determine the contents and trends shared by users.
+  - To analyze the sentiments and impressions shared between users or via topic/keywords.
+  - To create a Machine Learning model that classifies the tweets between users or topic/keywords based on the text sentiments, models evaluation, and assessment (i.e. Accuracy, Recall, AUC, etc.). 
+  - The insights gained by analyzing the tweets data will aid in understanding the content, engagement, and trends between users.
 
 
 
 ## Contents
-**(1) HeartDisease_Dataset.csv**
-  - Heart Disease dataset file in CSV format.
+**(1) Twitter-API-ScrapeFromUser Folder**
+  - Contains the Twitter API (scrape from users) Python implementation codes (along with explanations) for the project.
 
-**(2) HeartDisease_EDA-ML_Python.ipynb**
-  - The main notebook containing the Python implementation codes (along with explanations) for the project.
+**(2) Twitter-API-ScrapeUsingKeywords Folder**
+  - Contains the Twitter API (scrape using keywords) Python implementation codes (along with explanations) for the project.
 
 
 
@@ -70,6 +72,7 @@
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23#ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=white)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 
 <p </p>
 
@@ -78,7 +81,6 @@
 ## Installation
 - Clone this repository and unzip it / Download the ipynb file only.
 - After downloading, open the ipynb file using any tool (PyCharm, VSCode, Jupyter Lab/Notebook, etc.).
-- Make sure the dataset (.csv file) is in the same location as the ipynb file.
 - Install the required library packages (Run !pip install if the library packages fail).
 - Run the code and view the results.
 
