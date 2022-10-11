@@ -30,6 +30,7 @@
 - [Python](https://www.python.org/) is used to assist this project with Data Mining by extracting important insights using: 
   - [Basic Statistics](https://en.wikipedia.org/wiki/Statistics)
   - [Data Visualization](https://en.wikipedia.org/wiki/Data_and_information_visualization)
+  - [Sentiment Analysis](https://en.wikipedia.org/wiki/Sentiment_analysis)
   - [Supervised Machine Learning Models (Classification)](https://en.wikipedia.org/wiki/Supervised_learning)
     - [Multinomial Naive Bayes Classier](https://en.wikipedia.org/wiki/Naive_Bayes_classifier)
 
