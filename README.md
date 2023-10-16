@@ -18,7 +18,6 @@
   - [Aim & Objective](#Aim--Objective)
 - [Contents](#Contents)
 - [Technologies Used](#Technologies-Used)
-- [Installation](#Installation)
 - [License](#License)
 - [Credits](#Credits)
 
@@ -76,14 +75,6 @@
 ![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)
 
 <p </p>
-
-
-
-## Installation
-- Clone this repository and unzip it / Download the ipynb file only.
-- After downloading, open the ipynb file using any tool (PyCharm, VSCode, Jupyter Lab/Notebook, etc.).
-- Install the required library packages (Run !pip install if the library packages fail).
-- Run the code and view the results.
 
 
 
