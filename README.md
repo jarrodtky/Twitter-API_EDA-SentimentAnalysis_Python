@@ -4,7 +4,7 @@
 
 # Twitter-API_EDA-SentimentAnalysis_Python
 
-**Course:** Social Media Analytics
+**Project:** Social Media Analytics
 
 **Topic:** Web Crawling and Scraping (Users & Keywords) using Python
 
